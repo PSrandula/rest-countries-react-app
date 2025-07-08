@@ -38,7 +38,7 @@ firebase deploy
 📑 View details like flag, capital, region, population, etc.
 🔐 User authentication (Sign up / Sign in)
 ❤️ Add to favorites (stored per user)
-🔄 Firebase integration with Firestore or Realtime DB
+🔄 Firebase integration with Realtime DB
 🎨 Responsive UI and clean design
 🌐 Deployed and hosted on Firebase Hosting
 
