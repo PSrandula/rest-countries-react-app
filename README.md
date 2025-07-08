@@ -54,4 +54,4 @@ firebase deploy
 🧹 ESLint for clean code
 
 🎬 Demo Video
-📽️ Watch here:
+📽️ Watch here: https://drive.google.com/file/d/1TIcmIca85254_Vg9QWyg1ORtWMCw7g8O/view?usp=sharing
