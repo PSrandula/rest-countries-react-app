@@ -6,7 +6,7 @@ import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import Favorites from './pages/Favorites';
 import AuthForm from './components/AuthForm';
-import CountryDetail from './pages/CountryDetail';
+import CountryDetail from './pages/ContryDetail';
 
 function App() {
   const [user, setUser] = React.useState(null);
